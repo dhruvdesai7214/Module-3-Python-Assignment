@@ -27,23 +27,17 @@ Enter the integer: 7
 Enter the integer: 12
 12 is an even number
 
-**Task 2**: Sum of Integers from a to b Using a Loop
- Problem Statement
+**##  Task 2: Sum of Integers from a to b Using a Loop
+**
+###  Problem Statement
 Write a Python program that:
+1. Takes two integer inputs from the user (start and end).
+2. Uses a `for` loop to calculate the sum of all integers between them (inclusive).
+3. Displays the final sum.
 
-Takes two integer inputs (start and end of range).
-
-Uses a for loop to iterate from the first number to the second number.
-
-Calculates and displays the total sum.
-
- How it works:
-The program uses a loop and an accumulator variable t to compute the sum.
-
-📌 Example Output:
-bash
-Copy
-Edit
-Enter first integer: 1
-Enter second integer: 50
+###  Sample Output
+```
+Enter first integer: 1  
+Enter second integer: 50  
 The sum of integers from 1 to 50 is 1275
+```
