@@ -27,8 +27,10 @@ Enter the integer: 7
 Enter the integer: 12
 12 is an even number
 
-**##  Task 2: Sum of Integers from a to b Using a Loop
-**
+```
+
+###  Task 2: Sum of Integers from a to b Using a Loop
+
 ###  Problem Statement
 Write a Python program that:
 1. Takes two integer inputs from the user (start and end).
